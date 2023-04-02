@@ -40,9 +40,11 @@ function App() {
               <span className="text-gray-600 text-[11px]">New to Amazon?</span>
               <div className="border border-gray-300 w-[100px]"></div>
             </div>
-            <button className="bg-gray-100 border w-3/4 border-gray-300 rounded-sm py-1 text-xs font-bold text-[#111111] w-full mt-4">
-              Create your Amazon account
-            </button>
+            <div className="flex justify-between w-3/4 items-center">
+              <button className="bg-gray-100 border border-gray-300 rounded-sm py-1 text-xs font-bold text-[#111111] w-full mt-4">
+                Create your Amazon account
+              </button>
+            </div>
           </div>
         </div>
       </div>
