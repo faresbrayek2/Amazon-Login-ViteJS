@@ -2,7 +2,7 @@
 ------
 This repository contains a Amazon-inspired login page built using ViteJS, a fast and efficient front-end JavaScript framework. The project showcases the use of ViteJS's modern features, such as single-file components and lazy-loaded routes, to create a seamless user experience.
 <p align="center">
-  <img src="https://i.ibb.co/x8fgPdB/image.png" />
+  <img src="https://i.ibb.co/m0jtg84/image.png" />
 </p>
 
 *Features*
